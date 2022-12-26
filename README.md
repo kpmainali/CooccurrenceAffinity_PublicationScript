@@ -1,4 +1,4 @@
-# CooccurrenceAffinity_PublicationScript
+# CooccurrenceAffinity_PublicationScriptX
 This repo is NOT the actual CooccurrenceAffinity R package. 
 
 This repo carries R script for generating figures in the publication of CooccurrenceAffinity R package. A preprint version of the package manuscript is available here:
